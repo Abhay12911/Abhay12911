@@ -7,7 +7,7 @@ I am a passionate Fullstack web developer from India. My journey involves delvin
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Btech in Computer Science and Engineering College Ghaziabad.
--  I am a fullstaxk developer specialised in MERN stack,Typescript.
+-  I am a fullstack developer specialised in MERN stack,Typescript.
 
 
 
@@ -26,7 +26,7 @@ I am a passionate Fullstack web developer from India. My journey involves delvin
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter]([https://twitter.com/introvertedbot](https://x.com/abhaystp30))
+- Connect with me on [Twitter](https://x.com/abhaystp30)
 - 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
