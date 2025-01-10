@@ -13,7 +13,7 @@ I am a passionate Fullstack web developer from India. My journey involves delvin
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,c,css,express,git,github,js,mongodb,nextjs,nodejs,postgres,postman,react,tailwind,ts,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,c,css,express,git,github,js,mongodb,nextjs,nodejs,postgres,postman,react,tailwind,ts,vite,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
